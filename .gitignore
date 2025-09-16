@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+venv_frontend/
+
+# SQLite database files
+*.db
+data/*.db
+
+# Environment and configuration
+.env
+config.yaml
+
+# Logs and user data
+logs/
+data/user_data.json
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# System Files
+.DS_Store
+Thumbs.db
