@@ -1,0 +1,19 @@
+{
+  "llm": {
+    "default_model": "microsoft/DialoGPT-small",
+    "fallback_model": "distilgpt2",
+    "max_new_tokens": 150,
+    "temperature": 0.7
+  },
+  "training": {
+    "data_dir": "data/training",
+    "output_dir": "models/fine_tuned",
+    "quick_train_epochs": 2,
+    "production_epochs": 5
+  },
+  "app": {
+    "title": "AI Agent Prototype - Enhanced",
+    "port": 8501,
+    "debug": false
+  }
+}

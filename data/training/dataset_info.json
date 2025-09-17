@@ -1,0 +1,22 @@
+{
+  "created_at": "2025-09-17T15:49:44.700116",
+  "datasets": {
+    "journal_summarization": {
+      "samples": 101,
+      "file": "data/training\\journal_summarization.jsonl"
+    },
+    "habit_tracking": {
+      "samples": 51,
+      "file": "data/training\\habit_tracking.jsonl"
+    },
+    "reasoning_planning": {
+      "samples": 76,
+      "file": "data/training\\reasoning_planning.jsonl"
+    },
+    "combined": {
+      "samples": 228,
+      "file": "data/training\\combined_training.jsonl"
+    }
+  },
+  "total_samples": 228
+}

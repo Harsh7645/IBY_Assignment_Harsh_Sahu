@@ -8,15 +8,16 @@ from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 
-# Create FastAPI app
-app = FastAPI(title="Mindful App Backend")
+# Import route modules
+from app.routes import habits, focus, creativity, meditation
 
+# Create FastAPI app
 app = FastAPI(title="Mindful App Backend")
 
 # Configure CORS for local development
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:8501"],  # Streamlit default port
+    allow_origins=["http://localhost:8501", "http://localhost:8502"],  # Streamlit ports
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
