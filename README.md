@@ -44,7 +44,6 @@ In today's fast-paced digital world, people struggle with:
 ## Key Features & Demonstrations
 
 ### **Smart Dashboard - Your Progress at a Glance**
-![Dashboard](https://github.com/user-attachments/assets/dashboard-preview.png)
 ![WhatsApp Image 2025-09-18 at 00 56 23_26779f15](https://github.com/user-attachments/assets/d4267a6e-b7a5-4ef7-9fa0-a5895384b9b4)
 
 
@@ -56,7 +55,6 @@ In today's fast-paced digital world, people struggle with:
 - Personalized daily summary and motivation
 
 ### **Focus Timer - Pomodoro with Tree Growth Gamification**
-![Focus Timer](https://github.com/user-attachments/assets/focus-timer-preview.png)
 ![WhatsApp Image 2025-09-18 at 00 59 12_13c80cde](https://github.com/user-attachments/assets/d6a9f1fa-0e78-4f29-83e4-76b5f77f351e)
 
 
@@ -68,7 +66,6 @@ In today's fast-paced digital world, people struggle with:
 - **Session Analytics**: Track focus patterns over time
 
 ### **Intelligent Habit Tracker - Beyond Simple Checkboxes**
-![Habits](https://github.com/user-attachments/assets/habits-preview.png)
 ![WhatsApp Image 2025-09-18 at 00 57 49_ffe21b00](https://github.com/user-attachments/assets/b88431d6-df19-486d-8c5d-58a5842659b6)
 
 
@@ -80,7 +77,6 @@ In today's fast-paced digital world, people struggle with:
 - **Habit Insights**: Pattern recognition and improvement suggestions
 
 ### **Meditation & Mindfulness - Guided Wellness Journey**
-![Meditation](https://github.com/user-attachments/assets/meditation-preview.png)
 ![WhatsApp Image 2025-09-18 at 01 25 31_554f237e](https://github.com/user-attachments/assets/9085e008-0a9d-4410-8bf2-82582c508469)
 
 
@@ -92,7 +88,6 @@ In today's fast-paced digital world, people struggle with:
 - **Progress Analytics**: Mindfulness streak and session insights
 
 ### ✨ **Creative Canvas - Digital Journal with Rich Features**
-![Creative Canvas](https://github.com/user-attachments/assets/creative-canvas-preview.png)
 ![WhatsApp Image 2025-09-18 at 01 23 08_5371cac6](https://github.com/user-attachments/assets/bf806c71-fddd-4442-9e05-bade35644cb1)
 
 
