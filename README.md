@@ -397,14 +397,4 @@ streamlit run app.py --server.port 8501
 
 ---
 
-## 📜 License & Acknowledgments
-
-### **License**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
----
-
-<div align="center">
-
-*"Your calm mind is the ultimate weapon against your challenges."*
-
 </div>
