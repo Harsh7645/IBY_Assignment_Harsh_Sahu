@@ -1,8 +1,8 @@
-# 🧘‍♀️ I'm Beside You - AI-Powered Mindfulness & Productivity Companion
+# I'm Beside You - AI-Powered Mindfulness & Productivity Companion
 
 > **An intelligent mindfulness and productivity application that combines AI-driven insights with evidence-based wellness practices to help users build better habits, maintain focus, and cultivate mental well-being.**
 
-## 👨‍🎓 **Developer Information**
+## **Developer Information**
 
 **Name:** Harsh Sahu  
 **University:** Indian Institute of Technology (IIT) Kharagpur  
@@ -33,18 +33,20 @@ In today's fast-paced digital world, people struggle with:
 
 **I'm Beside You** is an AI-powered companion that addresses these challenges through:
 
-1. **🧠 AI-Driven Personalization**: Intelligent recommendations based on user behavior and preferences
-2. **🎯 Holistic Approach**: Integrating productivity, mindfulness, creativity, and habit formation
-3. **📊 Data-Driven Insights**: Analytics to track progress and identify patterns
-4. **🎨 Creative Expression**: Digital journaling with rich formatting and drawing capabilities
-5. **🧘‍♀️ Evidence-Based Practices**: Incorporating proven mindfulness and productivity techniques
+1. **AI-Driven Personalization**: Intelligent recommendations based on user behavior and preferences
+2. **Holistic Approach**: Integrating productivity, mindfulness, creativity, and habit formation
+3. **Data-Driven Insights**: Analytics to track progress and identify patterns
+4. **Creative Expression**: Digital journaling with rich formatting and drawing capabilities
+5. **Evidence-Based Practices**: Incorporating proven mindfulness and productivity techniques
 
 ---
 
-## 🌟 Key Features & Demonstrations
+## Key Features & Demonstrations
 
-### 📊 **Smart Dashboard - Your Progress at a Glance**
+### **Smart Dashboard - Your Progress at a Glance**
 ![Dashboard](https://github.com/user-attachments/assets/dashboard-preview.png)
+![WhatsApp Image 2025-09-18 at 00 56 23_26779f15](https://github.com/user-attachments/assets/d4267a6e-b7a5-4ef7-9fa0-a5895384b9b4)
+
 
 **Features:**
 - Real-time progress tracking across all activities
@@ -53,8 +55,10 @@ In today's fast-paced digital world, people struggle with:
 - Streak tracking and goal achievement metrics
 - Personalized daily summary and motivation
 
-### 🎯 **Focus Timer - Pomodoro with Tree Growth Gamification**
+### **Focus Timer - Pomodoro with Tree Growth Gamification**
 ![Focus Timer](https://github.com/user-attachments/assets/focus-timer-preview.png)
+![WhatsApp Image 2025-09-18 at 00 59 12_13c80cde](https://github.com/user-attachments/assets/d6a9f1fa-0e78-4f29-83e4-76b5f77f351e)
+
 
 **Innovation:**
 - **Gamified Experience**: Watch virtual trees grow as you focus
@@ -63,8 +67,10 @@ In today's fast-paced digital world, people struggle with:
 - **Progress Visualization**: Real-time progress bars and achievement celebrations
 - **Session Analytics**: Track focus patterns over time
 
-### 📋 **Intelligent Habit Tracker - Beyond Simple Checkboxes**
+### **Intelligent Habit Tracker - Beyond Simple Checkboxes**
 ![Habits](https://github.com/user-attachments/assets/habits-preview.png)
+![WhatsApp Image 2025-09-18 at 00 57 49_ffe21b00](https://github.com/user-attachments/assets/b88431d6-df19-486d-8c5d-58a5842659b6)
+
 
 **Advanced Features:**
 - **Category-Based Organization**: Visual icons and color coding
@@ -73,8 +79,10 @@ In today's fast-paced digital world, people struggle with:
 - **Progress Visualization**: Interactive cards with completion tracking
 - **Habit Insights**: Pattern recognition and improvement suggestions
 
-### 🧘‍♀️ **Meditation & Mindfulness - Guided Wellness Journey**
+### **Meditation & Mindfulness - Guided Wellness Journey**
 ![Meditation](https://github.com/user-attachments/assets/meditation-preview.png)
+![WhatsApp Image 2025-09-18 at 01 25 31_554f237e](https://github.com/user-attachments/assets/9085e008-0a9d-4410-8bf2-82582c508469)
+
 
 **Unique Approach:**
 - **Dynamic Quote System**: Contextual motivational quotes
@@ -85,6 +93,8 @@ In today's fast-paced digital world, people struggle with:
 
 ### ✨ **Creative Canvas - Digital Journal with Rich Features**
 ![Creative Canvas](https://github.com/user-attachments/assets/creative-canvas-preview.png)
+![WhatsApp Image 2025-09-18 at 01 23 08_5371cac6](https://github.com/user-attachments/assets/bf806c71-fddd-4442-9e05-bade35644cb1)
+
 
 **Professional Features:**
 - **Rich Text Editor**: Full formatting capabilities (bold, italic, highlight, colors)
@@ -190,7 +200,7 @@ I'm Beside You Assignment/
 
 ---
 
-## 🏗️ Technical Architecture
+## Technical Architecture
 
 ### **System Design Philosophy**
 
@@ -228,10 +238,10 @@ graph TB
 
 ```
 I'm Beside You Assignment/
-├── 🎨 frontend/                 # Streamlit web application
+├── frontend/                 # Streamlit web application
 │   ├── app.py                   # Main application entry point
 │   └── requirements.txt         # Frontend dependencies
-├── ⚡ backend/                  # FastAPI server
+├── backend/                  # FastAPI server
 │   ├── app/
 │   │   └── routes/             # API endpoint modules
 │   │       ├── habits.py       # Habit tracking endpoints
@@ -240,16 +250,16 @@ I'm Beside You Assignment/
 │   │       └── creativity.py   # Creative canvas endpoints
 │   ├── main.py                 # FastAPI application setup
 │   └── requirements.txt        # Backend dependencies
-├── 🤖 agents/                  # AI and automation modules
+├── agents/                  # AI and automation modules
 │   ├── habit_tracker.py        # Intelligent habit recommendations
 │   ├── study_timer.py          # Focus session optimization
 │   ├── meditation.py           # Mindfulness session guidance
 │   └── creativity.py           # Creative prompt generation
-├── 📊 data/                    # Database and data storage
+├── data/                    # Database and data storage
 │   └── mindful_app.db          # SQLite database
-├── 🧪 models/                  # AI model storage
-├── 📝 logs/                    # Application logs
-└── 🚀 deployment/              # Quick start scripts
+├── models/                  # AI model storage
+├── logs/                    # Application logs
+└── deployment/              # Quick start scripts
     ├── start_backend.bat       # Windows backend launcher
     └── start_frontend.bat      # Windows frontend launcher
 ```
@@ -321,25 +331,7 @@ streamlit run app.py --server.port 8501
 
 ---
 
-## 🎨 Design Philosophy & User Experience
-
-### **Color Psychology & Theme**
-- **Primary Blue (#5873C6)**: Trust, calm, productivity
-- **Soft Purple (#B49FCC)**: Creativity, mindfulness
-- **Warm Beige (#F6F6F2)**: Comfort, naturalness
-- **Gentle Green (#8ED081)**: Growth, progress, success
-- **Warm Orange (#FFD6A5)**: Energy, motivation, highlights
-
-### **UX Principles**
-1. **Minimalism**: Clean, uncluttered interface focusing on essential features
-2. **Intuitive Navigation**: Logical flow and consistent interaction patterns
-3. **Responsive Design**: Seamless experience across devices
-4. **Accessibility**: High contrast, readable fonts, keyboard navigation
-5. **Gamification**: Subtle game elements to encourage engagement without overwhelming
-
----
-
-## 🧠 AI & Intelligence Features
+## AI & Intelligence Features
 
 ### **Smart Recommendations**
 - **Habit Suggestions**: Based on user patterns and success rates
@@ -355,59 +347,46 @@ streamlit run app.py --server.port 8501
 
 ---
 
-## 📈 Future Roadmap
+## Future Roadmap
 
 ### **Phase 1: Core Enhancement** (Current)
-- ✅ Complete UI/UX implementation
-- ✅ Basic AI recommendations
-- ✅ Data persistence and analytics
-- ✅ Responsive design
+- Complete UI/UX implementation
+- Basic AI recommendations
+- Data persistence and analytics
+- Responsive design
 
 ### **Phase 2: Advanced AI** (Next 3 months)
-- 🔄 Machine learning model integration
-- 🔄 Natural language processing for journal analysis
-- 🔄 Personalized meditation guide creation
-- 🔄 Advanced habit success prediction
+- Machine learning model integration
+- Natural language processing for journal analysis
+- Personalized meditation guide creation
+- Advanced habit success prediction
 
 ### **Phase 3: Social & Collaboration** (Next 6 months)
-- 🔄 Community features and challenges
-- 🔄 Mentor-mentee connections
-- 🔄 Group meditation sessions
-- 🔄 Achievement sharing and motivation
+- Community features and challenges
+- Mentor-mentee connections
+- Group meditation sessions
+- Achievement sharing and motivation
 
 ### **Phase 4: Enterprise Integration** (Next 12 months)
-- 🔄 Workplace wellness modules
-- 🔄 Team productivity analytics
-- 🔄 Integration with popular productivity tools
-- 🔄 Corporate mindfulness programs
+- Workplace wellness modules
+- Team productivity analytics
+- Integration with popular productivity tools
+- Corporate mindfulness programs
 
 ---
 
-## 🛠️ Development & Contribution
+## Development & Contribution
 
 ### **Technology Stack**
 - **Frontend**: Streamlit, HTML/CSS, JavaScript
 - **Backend**: FastAPI, Python 3.8+
 - **Database**: SQLite (development), PostgreSQL (production-ready)
-- **AI/ML**: scikit-learn, TensorFlow/PyTorch (future)
+- **AI/ML**: scikit-learn, TensorFlow/PyTorch
 - **Deployment**: Docker, GitHub Actions, Vercel/Heroku
-
-### **Code Quality**
-- **Linting**: flake8, black for code formatting
-- **Type Checking**: mypy for static type analysis
-- **Testing**: pytest for comprehensive test coverage
-- **Documentation**: Comprehensive docstrings and API documentation
-
-### **Contributing Guidelines**
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ---
 
-## 📊 Performance & Analytics
+## Performance & Analytics
 
 ### **Key Metrics Tracked**
 - **User Engagement**: Session duration, feature usage, return rate
@@ -423,63 +402,14 @@ streamlit run app.py --server.port 8501
 
 ---
 
-## 🎓 Educational Impact & Research
-
-### **Evidence-Based Practices**
-- **Pomodoro Technique**: Scientifically proven focus methodology
-- **Mindfulness-Based Stress Reduction (MBSR)**: Clinically validated meditation practices
-- **Habit Loop Theory**: Based on Charles Duhigg's research on habit formation
-- **Flow State Optimization**: Techniques from Mihaly Csikszentmihalyi's research
-
-### **Potential Research Applications**
-- **Digital Wellness Studies**: Understanding technology's impact on mental health
-- **Habit Formation Research**: Large-scale analysis of successful habit building
-- **Productivity Optimization**: Data-driven insights into effective work patterns
-- **Mindfulness Accessibility**: Making meditation practices more accessible and trackable
-
----
-
-## 📞 Support & Contact
-
-### **Getting Help**
-- **Documentation**: Comprehensive guides in `/docs` directory
-- **Issue Tracker**: GitHub Issues for bug reports and feature requests
-- **Discussions**: GitHub Discussions for questions and community support
-
-### **Developer Contact**
-- **Name**: Harsh Sahu
-- **GitHub**: [@Harsh7645](https://github.com/Harsh7645)
-- **Email**: [Contact through GitHub](https://github.com/Harsh7645)
-- **Project Repository**: [IBY_Assignment_Harsh_Sahu](https://github.com/Harsh7645/IBY_Assignment_Harsh_Sahu)
-
----
-
 ## 📜 License & Acknowledgments
 
 ### **License**
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### **Acknowledgments**
-- **Streamlit Team**: For the amazing frontend framework
-- **FastAPI Team**: For the high-performance backend framework
-- **Open Source Community**: For the countless libraries and tools
-- **Mindfulness Researchers**: For evidence-based practices integration
-- **UX/UI Inspiration**: From leading wellness and productivity applications
-
-### **Special Thanks**
-- Users and testers who provided valuable feedback
-- Contributors who helped improve the codebase
-- Academic researchers whose work influenced our approach
-- The broader wellness and technology community
-
 ---
 
 <div align="center">
 
-**🌟 Made with ❤️ for mental wellness and productivity**
-
 *"Your calm mind is the ultimate weapon against your challenges."*
-
-[⭐ Star this repo](https://github.com/Harsh7645/IBY_Assignment_Harsh_Sahu) | [🐛 Report Bug](https://github.com/Harsh7645/IBY_Assignment_Harsh_Sahu/issues) | [💡 Request Feature](https://github.com/Harsh7645/IBY_Assignment_Harsh_Sahu/issues)
 
 </div>
